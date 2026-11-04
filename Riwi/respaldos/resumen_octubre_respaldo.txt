@@ -1,0 +1,5 @@
+sr. Ana dejo de ser cliente activo este mes
+pero pagó su facturas(sr.Ana)
+El proyecto de la app fue cancelado
+la app_domicilios.txt fue movida a proyectos/archivados
+Por el momento todo bien

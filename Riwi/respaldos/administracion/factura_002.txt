@@ -1,0 +1,4 @@
+número: 002
+Cliente: Luis Poveda
+Valor: 200000
+Estado: pendiente

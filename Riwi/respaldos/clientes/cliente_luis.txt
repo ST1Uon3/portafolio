@@ -1,0 +1,4 @@
+Nombre: Luis poveda
+Empresa: Ferreteria deTODO
+Estado: Activo
+Correo: Luispove@example.com
