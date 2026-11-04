@@ -1,0 +1,15 @@
+Algoritmo sandwich
+	Escribir "saca un plato"
+	Escribir "ponlo en una superficie plana"
+	Escribir "saca dos tajadas de pan tajado"
+	Escribir "pon las tajadas una a el lado de la otra en en el plato"
+	Escribir "saca el aderezo"
+	Escribir "agarra un cuchillo para untar"
+	Escribir "unta los panes con el aderezo usando el cuchillo para untar"
+	Escribir "saca el jamón"
+	Escribir "agarra una tajada y ponla en el pan con aderezo"
+	Escribir "saca una taja de queso"
+	Escribir "ponla sobre el pan con jamón y aderezo"
+	Escribir "cierra los panes en el plato"
+	Escribir "comete el sandwich"
+FinAlgoritmo
